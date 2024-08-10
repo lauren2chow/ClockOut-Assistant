@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import Timer from './components/Timer';
 import './App.css';
+import {Helmet} from "react-helmet";
 
 function App() {
   const [startTime, setStartTime] = useState('');
@@ -42,6 +43,10 @@ function App() {
 
   return (
     <div className="App">
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>ClockOut Assistant</title>
+      </Helmet>
       <h1>ClockOut Assistant</h1>
       <label>
         Start Time:
