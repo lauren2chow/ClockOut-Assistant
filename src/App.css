@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 500px;
+  background: #f8f9fa;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+  display: block;
+  margin: 10px 0;
+}
+
+input {
+  margin-left: 10px;
+}
+
+button {
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+
+p {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.current-time-button {
+  padding: 5px 10px;
+  margin-left: 3px;
+  font-size: 1-px;
+}
