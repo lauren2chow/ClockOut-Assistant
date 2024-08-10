@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ClockOut-Assistant/static/css/main.47a77c6b.css",
-    "main.js": "/ClockOut-Assistant/static/js/main.077f995c.js",
+    "main.js": "/ClockOut-Assistant/static/js/main.32375bee.js",
     "static/js/453.c94e98fd.chunk.js": "/ClockOut-Assistant/static/js/453.c94e98fd.chunk.js",
     "index.html": "/ClockOut-Assistant/index.html",
     "main.47a77c6b.css.map": "/ClockOut-Assistant/static/css/main.47a77c6b.css.map",
-    "main.077f995c.js.map": "/ClockOut-Assistant/static/js/main.077f995c.js.map",
+    "main.32375bee.js.map": "/ClockOut-Assistant/static/js/main.32375bee.js.map",
     "453.c94e98fd.chunk.js.map": "/ClockOut-Assistant/static/js/453.c94e98fd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47a77c6b.css",
-    "static/js/main.077f995c.js"
+    "static/js/main.32375bee.js"
   ]
 }
