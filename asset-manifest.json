@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clockout-assistant/static/css/main.47a77c6b.css",
+    "main.js": "/clockout-assistant/static/js/main.5514332e.js",
+    "static/js/453.c94e98fd.chunk.js": "/clockout-assistant/static/js/453.c94e98fd.chunk.js",
+    "index.html": "/clockout-assistant/index.html",
+    "main.47a77c6b.css.map": "/clockout-assistant/static/css/main.47a77c6b.css.map",
+    "main.5514332e.js.map": "/clockout-assistant/static/js/main.5514332e.js.map",
+    "453.c94e98fd.chunk.js.map": "/clockout-assistant/static/js/453.c94e98fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47a77c6b.css",
+    "static/js/main.5514332e.js"
+  ]
+}
